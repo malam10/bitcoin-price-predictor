@@ -65,7 +65,7 @@ You can find all the required dependencies in the `requirements.txt` file.
    - Resample the data to a monthly frequency.
    - Train and test the three models (Random Forest, SVR, Gradient Boosting).
    - Display a plot comparing actual vs predicted prices.
-   - Output model performance using MSE, MAE, and R² metrics.
+   - Output model performance using R² metrics.
 
 ## Models Used
 
